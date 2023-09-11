@@ -8,7 +8,6 @@
 
 - 🤔 I’m on: [Medium](https://medium.com/@kalharatennakoon)
 
-
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/kalharatennakoon)
 
 - 😄 Pronouns: he/him/his  
