@@ -50,10 +50,13 @@
 
 ---
 
-[![Kalhara's github stats](https://github-readme-stats.vercel.app/api?username=kalharatennakoon&theme=dark&show_icons=true)](https://github.com/kalharatennakoon)
+<!-- comment start here -->
+<!-- [![Kalhara's github stats](https://github-readme-stats.vercel.app/api?username=kalharatennakoon&theme=dark&show_icons=true)](https://github.com/kalharatennakoon)
 
 <!-- --- -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalharatennakoon)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalharatennakoon)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- comment end here -->
 
 <!-- --- -->
 
