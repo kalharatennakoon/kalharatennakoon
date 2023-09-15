@@ -35,7 +35,9 @@
 - [Postman Student Expert](https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w?identity__email=kalharat81%40gmail.com) -->
 
 
-<a href="https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url"> <img src="./assets/microsoft-certified-azure-fundamentals.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/e00e2129-a1d9-454c-875a-790af6d3716c/public_url"> <img src="./assets/lfs169-introduction-to-gitops.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/9061852c-fdf7-4219-926b-523d30a31111/public_url"> <img src="./assets/introduction-to-cybersecurity.png" width="100" height="100" /></a> <a href="https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w"> <img src="./assets/Postman-API-Fundamentals-Student-Expert.png" width="100" height="100" /></a>
+<a href="https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url"> <img src="./assets/microsoft-certified-azure-fundamentals.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/e00e2129-a1d9-454c-875a-790af6d3716c/public_url"> <img src="./assets/lfs169-introduction-to-gitops.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/9061852c-fdf7-4219-926b-523d30a31111/public_url"> <img src="./assets/introduction-to-cybersecurity.png" width="100" height="100" /></a> <a href="https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w"> 
+
+<!-- <img src="./assets/Postman-API-Fundamentals-Student-Expert.png" width="100" height="100" /></a> -->
 
 
 ---
