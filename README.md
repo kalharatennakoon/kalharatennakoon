@@ -48,7 +48,7 @@
 - [How to Maximise iPhone Battery Life](https://kalharatennakoon.medium.com/how-to-maximise-iphone-battery-life-11a399a06653?source=rss-71d60f60a8aa------2)
 - [Achieving Success: My Journey to Passing the Microsoft Azure Fundamentals &lpar;AZ 900&rpar; Exam](https://kalharatennakoon.medium.com/achieving-success-my-journey-to-passing-the-microsoft-azure-fundamentals-az-900-exam-2faeb0736489?source=rss-71d60f60a8aa------2)
 - [Why daily exercises are essential for IT Industry Professionals?](https://kalharatennakoon.medium.com/why-daily-exercises-are-essential-for-it-industry-professionals-2b0524fcbb68?source=rss-71d60f60a8aa------2)
-- [Getting Started with Angular -Part 1](https://kalharatennakoon.medium.com/getting-started-with-angular-part-1-e6cae4c1c7d?source=rss-71d60f60a8aa------2)
+- [Getting Started with Angular -Part 1](https://medium.com/nerd-for-tech/getting-started-with-angular-part-1-e6cae4c1c7d?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
