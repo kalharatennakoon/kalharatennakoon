@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: he/him/his  
 
-[![Linkedin Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kalharatennakoon)](https://www.linkedin.com/in/kalharatennakoon) [![Medium Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Medium&logoColor=black&link=https://kalharatennakoon.medium.com)](https://kalharatennakoon.medium.com) [![StackOverflow Badge](https://img.shields.io/badge/-kalharatennakoon-white?labelColor=white&logo=Stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/13018789/kalhara-tennakoon)](https://stackoverflow.com/users/13018789/kalhara-tennakoon) 
+[![Linkedin Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kalharatennakoon)](https://www.linkedin.com/in/kalharatennakoon) [![Medium Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Medium&logoColor=black&link=https://kalharatennakoon.medium.com)](https://kalharatennakoon.medium.com) [![StackOverflow Badge](https://img.shields.io/badge/-kalharatennakoon-white?labelColor=white&logo=Stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/13018789/kalhara-tennakoon)](https://stackoverflow.com/users/13018789/kalhara-tennakoon) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KRTennakoon)](https://twitter.com/@KRTennakoon)
 
 
 ---
