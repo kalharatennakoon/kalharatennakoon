@@ -2,7 +2,7 @@
 
 - 🔭 I’m Kalhara. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I'm a Computer Science undergrad and a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
+- 👨🏻‍💻 I'm a Computer Science undergraduate and a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
 
 - 💬 Ask me about: Java, Golang, Python, Angular, NodeJs, Flask, MySQL, PostgreSQL, MongoDB, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, CI/CD, Azure & AI.
 
