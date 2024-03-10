@@ -17,7 +17,7 @@
 ---
 <!-- **📄 Global Certifications** -->
 ### 📄 Global Certifications
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url)
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/3df7542a5c778a0e3e180571caf85ba59fb4a1afddbf58ea438e2e1badf72d80?u=60693444)
 - [Career Essentials in Cybersecurity by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/d61cd147c6fef73dbdcdf6cdcbb22c4b52dee28b5aaca3146517a08284fd2698)
 - [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/552e0a946189687d3faef6a6d6d0a10f294ec818c64c7f12c538aa3d11a7e45c?u=60693444)
