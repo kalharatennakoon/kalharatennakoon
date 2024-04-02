@@ -32,8 +32,7 @@
 - [Introduction to GitOps issued by The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/26a061f2-539e-41a7-9e6a-8ee41a2d21ca-t-m-kalhara-randil-bandara-tennakoon-d03dccea-4781-4578-9d2c-de8fa9c0f7db-certificate.pdf)
 
 
-<a href="https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url"> <img src="./assets/microsoft-certified-azure-fundamentals.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/e00e2129-a1d9-454c-875a-790af6d3716c/public_url"> <img src="./assets/lfs169-introduction-to-gitops.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/9061852c-fdf7-4219-926b-523d30a31111/public_url"> <img src="./assets/introduction-to-cybersecurity.png" width="100" height="100" /></a> <a href="https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w"> 
-
+<a href="https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url"> <img src="./assets/microsoft-certified-azure-fundamentals.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/e00e2129-a1d9-454c-875a-790af6d3716c/public_url"> <img src="./assets/lfs169-introduction-to-gitops.png" width="100" height="100" /></a>  <a href="https://www.credly.com/badges/9061852c-fdf7-4219-926b-523d30a31111/public_url"> <img src="./assets/introduction-to-cybersecurity.png" width="100" height="100" /></a> <a href="https://www.credly.com/badges/46ef2206-b23a-466c-89b7-b59f1901b2d2/public_url"><img src="./assets/aws-educate-introduction-to-cloud-101.png" width="100" height="100" /></a> 
 
 
 ---
