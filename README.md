@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I'm a CS undergraduate and a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
 
-- 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, MySQL, PostgreSQL, MongoDB, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, CI/CD, Azure & AI.
+- 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, SQL, NoSQL, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, CI/CD, Microsoft Azure & AI.
 
 - 🤔 I’m on: [Medium](https://medium.com/@kalharatennakoon)
 
