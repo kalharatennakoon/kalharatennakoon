@@ -41,11 +41,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Must Know Features in iOS 18: Why This Update is a Game-Changer](https://kalharatennakoon.medium.com/must-know-features-in-ios-18-why-this-update-is-a-game-changer-9c3f2e6d7bad?source=rss-71d60f60a8aa------2)
 - [Getting Started with Tekton Pipelines: A Beginner’s Guide to CI/CD on Kubernetes](https://levelup.gitconnected.com/getting-started-with-tekton-pipelines-a-beginners-guide-to-ci-cd-on-kubernetes-afd21e98b9fe?source=rss-71d60f60a8aa------2)
 - [Precautionary Steps to Protect Your Data in Case of an iPhone Theft](https://kalharatennakoon.medium.com/precautionary-steps-to-protect-your-data-in-case-of-an-iphone-theft-ba7b76bf89b8?source=rss-71d60f60a8aa------2)
 - [Enhancing My Health through Apple Shortcuts: A Personal Journey.](https://kalharatennakoon.medium.com/enhancing-my-health-through-apple-shortcuts-a-personal-journey-bd0bd292f88c?source=rss-71d60f60a8aa------2)
 - [How to Maximise iPhone Battery Life](https://kalharatennakoon.medium.com/how-to-maximise-iphone-battery-life-11a399a06653?source=rss-71d60f60a8aa------2)
-- [Achieving Success: My Journey to Passing the Microsoft Azure Fundamentals &lpar;AZ 900&rpar; Exam](https://kalharatennakoon.medium.com/achieving-success-my-journey-to-passing-the-microsoft-azure-fundamentals-az-900-exam-2faeb0736489?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
