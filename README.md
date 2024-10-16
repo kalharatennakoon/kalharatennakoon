@@ -40,6 +40,8 @@
 [<img src="./assets/aws-educate-introduction-to-cloud-101.png" width="100" height="100" />](https://www.credly.com/badges/46ef2206-b23a-466c-89b7-b59f1901b2d2/public_url)
 [<img src="./assets/introduction-to-devops-and-site-reliability.png" width="100" height="100" />](https://www.credly.com/badges/cc91694e-65ac-472d-8ff0-11c8b6201200/public_url)
 [<img src="./assets/Introduction_to_Artificial_Intelligence.png" width="100" height="100" />](https://training.tafensw.edu.au/badges/badge.php?hash=02a14de9fd39e09a6fd3df586097dd366aa82988)
+[<img src="./assets/ethics-in-ai-and-data-science.png" width="100" height="100" />](https://www.credly.com/badges/fc9045d0-af0f-4da8-a00b-e7c00ed26709/public_url)
+
 
 
 
