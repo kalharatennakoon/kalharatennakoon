@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I'm a CS undergraduate.
 
-- 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, SQL, NoSQL, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, Tekton, CI/CD, Microsoft Azure & AI.
+- 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, SQL, NoSQL, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, Tekton, Helm, CI/CD, Microsoft Azure & AI.
 
 - 🤔 I’m on: [Medium](https://medium.com/@kalharatennakoon)
 
