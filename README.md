@@ -50,11 +50,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Apple Intelligence: Hype or Reality?](https://kalharatennakoon.medium.com/unlocking-the-power-of-apple-intelligence-hype-or-reality-824ef0c30f88?source=rss-71d60f60a8aa------2)
 - [Getting Started with Behave Tests: A Beginner-Friendly Guide to BDD&lpar;Behavior-Driven Development&rpar;…](https://levelup.gitconnected.com/getting-started-with-behave-tests-a-beginner-friendly-guide-to-bdd-behavior-driven-development-aa5e182cf350?source=rss-71d60f60a8aa------2)
 - [Must Know Features in iOS 18: Why This Update is a Game-Changer](https://kalharatennakoon.medium.com/must-know-features-in-ios-18-why-this-update-is-a-game-changer-9c3f2e6d7bad?source=rss-71d60f60a8aa------2)
 - [Getting Started with Tekton Pipelines: A Beginner’s Guide to CI/CD on Kubernetes](https://levelup.gitconnected.com/getting-started-with-tekton-pipelines-a-beginners-guide-to-ci-cd-on-kubernetes-afd21e98b9fe?source=rss-71d60f60a8aa------2)
 - [Precautionary Steps to Protect Your Data in Case of an iPhone Theft](https://kalharatennakoon.medium.com/precautionary-steps-to-protect-your-data-in-case-of-an-iphone-theft-ba7b76bf89b8?source=rss-71d60f60a8aa------2)
-- [Enhancing My Health through Apple Shortcuts: A Personal Journey.](https://kalharatennakoon.medium.com/enhancing-my-health-through-apple-shortcuts-a-personal-journey-bd0bd292f88c?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
