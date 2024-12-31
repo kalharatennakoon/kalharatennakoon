@@ -33,7 +33,7 @@
 - [Introduction to Cybersecurity issued by Cisco](https://www.youracclaim.com/badges/9061852c-fdf7-4219-926b-523d30a31111?source=linked_in_profile)
 - [Getting Started with Azure DevOps Boards](https://coursera.org/share/41b703ac2707f8210d3ad8bb99359cd3)
 - [Introduction to GitOps issued by The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/26a061f2-539e-41a7-9e6a-8ee41a2d21ca-t-m-kalhara-randil-bandara-tennakoon-d03dccea-4781-4578-9d2c-de8fa9c0f7db-certificate.pdf)
-- [[Introduction to Kubernetes issued by The Linux Foundation]](https://www.credly.com/badges/2e85093a-844a-4b47-8034-fa0e750f8635/linked_in?t=spcxso)
+- [Introduction to Kubernetes issued by The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ff96589e-6699-4b22-847c-d9ec38812b30-t-m-kalhara-tennakoon-5b479bc0-2836-48c1-8abc-35ad7de91aa7-certificate.pdf)
 
 
 [<img src="./assets/microsoft-certified-azure-fundamentals.png" width="100" height="100" />](https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url)
