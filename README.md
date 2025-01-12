@@ -18,6 +18,7 @@
 ---
 <!-- **📄 Global Certifications** -->
 ### 📄 Global Certifications
+- [GitHub Foundations](https://www.credly.com/badges/91239f31-74c8-4175-93a0-0855efb3c46e/public_url)
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-gb/TMKRBTennakoon/38133387373C82E1?sharingId=87BD701455AA18AA)
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-gb/TMKRBTennakoon/1C53DDEE0DB410A4?sharingId=87BD701455AA18AA)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/1cd00bda-ffc7-467f-83a9-c8f7c9702be7/public_url)
@@ -45,8 +46,7 @@
 [<img src="./assets/ethics-in-ai-and-data-science.png" width="100" height="100" />](https://www.credly.com/badges/fc9045d0-af0f-4da8-a00b-e7c00ed26709/public_url)
 [<img src="./assets/Introduction_to_Linux.png" width="100" height="100" />](https://training.tafensw.edu.au/badges/badge.php?hash=e966e99dd33f56474807bbab544245ec12f1a7a8)
 [<img src="./assets/introduction-to-kubernetes.png" width="100" height="100" />](https://www.credly.com/badges/2e85093a-844a-4b47-8034-fa0e750f8635/linked_in?t=spcxso)
-
-
+[[<img src="./assets/github-foundations.png" width="100" height="100" />](https://www.credly.com/badges/91239f31-74c8-4175-93a0-0855efb3c46e/public_url)
 
 
 ---
