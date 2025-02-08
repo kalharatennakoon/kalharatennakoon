@@ -2,7 +2,7 @@
 
 - 🔭 I’m Kalhara. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I'm a CS undergraduate.
+- 👨🏻‍💻 I'm a 2nd year CS undergraduate.
 
 - 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, SQL, NoSQL, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, CI/CD, Microsoft Azure & AI.
 
