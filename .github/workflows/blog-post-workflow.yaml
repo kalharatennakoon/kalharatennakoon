@@ -1,3 +1,13 @@
+# This GitHub Actions workflow is named "Latest blog post workflow".
+# It is triggered automatically every 2 days at midnight (UTC) using a cron schedule.
+# Additionally, it can be triggered manually via the GitHub Actions Workflow page.
+# The workflow requires write permissions to the repository contents to update the README file.
+#
+# The workflow consists of a single job named "update-readme-with-blog" that runs on the latest Ubuntu environment.
+# The job has two steps:
+# 1. Checkout: Uses the actions/checkout@v3 action to checkout the repository.
+# 2. Pull in dev.to posts: Uses the gautamkrishnar/blog-post-workflow@v1 action to fetch the latest blog posts from the specified RSS feed (https://medium.com/feed/@kalharatennakoon) and update the README file with the fetched posts.
+
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
