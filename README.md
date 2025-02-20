@@ -49,6 +49,7 @@
 [<img src="./assets/github-foundations.png" width="100" height="100" />](https://www.credly.com/badges/91239f31-74c8-4175-93a0-0855efb3c46e/public_url)
 [<img src="./assets/introduction-to-jenkins.png" width="100" height="100" />](https://www.credly.com/badges/069dab43-30f9-4dd8-acb6-1a26649e9457/public_url)
 [<img src="./assets/cloud-devops.png" width="100" height="100" />](https://www.credly.com/badges/41940219-ee87-4c5d-9fce-f6f8d55370ac/public_url)
+[<img src="./assets/ibm-containers-kubernetes-essentials.png" width="100" height="100" />](https://www.credly.com/badges/cd6d6b21-8e27-4980-b51d-d97f011ed11d/public_url)
 
 ---
 
