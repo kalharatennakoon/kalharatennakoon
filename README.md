@@ -55,11 +55,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Building, Dockerizing, and Deploying a CRUD API in Go on Kubernetes](https://levelup.gitconnected.com/building-dockerizing-and-deploying-a-crud-api-in-go-on-kubernetes-9c25b01ad2e8?source=rss-71d60f60a8aa------2)
+- [The Importance of Writing Clean Code.](https://levelup.gitconnected.com/the-importance-of-writing-clean-code-a4d453814373?source=rss-71d60f60a8aa------2)
 - [The Critical Role of Feasibility Studies in Software Development](https://kalharatennakoon.medium.com/the-critical-role-of-feasibility-studies-in-software-development-dc7263c929be?source=rss-71d60f60a8aa------2)
 - [Unlocking the Power of Apple Intelligence: Hype or Reality?](https://kalharatennakoon.medium.com/unlocking-the-power-of-apple-intelligence-hype-or-reality-824ef0c30f88?source=rss-71d60f60a8aa------2)
 - [Getting Started with Behave Tests: A Beginner-Friendly Guide to BDD&lpar;Behavior-Driven Development&rpar;…](https://levelup.gitconnected.com/getting-started-with-behave-tests-a-beginner-friendly-guide-to-bdd-behavior-driven-development-aa5e182cf350?source=rss-71d60f60a8aa------2)
-- [Must Know Features in iOS 18: Why This Update is a Game-Changer](https://kalharatennakoon.medium.com/must-know-features-in-ios-18-why-this-update-is-a-game-changer-9c3f2e6d7bad?source=rss-71d60f60a8aa------2)
-- [Getting Started with Tekton Pipelines: A Beginner’s Guide to CI/CD on Kubernetes](https://levelup.gitconnected.com/getting-started-with-tekton-pipelines-a-beginners-guide-to-ci-cd-on-kubernetes-afd21e98b9fe?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
