@@ -51,9 +51,8 @@
 [<img src="./assets/cloud-devops.png" width="100" height="100" />](https://www.credly.com/badges/41940219-ee87-4c5d-9fce-f6f8d55370ac/public_url)
 [<img src="./assets/ibm-containers-kubernetes-essentials.png" width="100" height="100" />](https://www.credly.com/badges/cd6d6b21-8e27-4980-b51d-d97f011ed11d/public_url)
 [<img src="./assets/aws-educate-machine-learning-foundations.png" width="100" height="100" />](https://www.credly.com/badges/018bac1c-155b-41be-b2c9-531502d35d12/public_url)
-
-
-
+[<img src="./assets/aws-getting-started-with-compute.png" width="100" height="100" />](https://www.credly.com/badges/4fadeb44-e98e-4a2e-aa26-1b2a391f196d/public_url)
+[<img src="./assets/aws-introduction-to-generative-ai.png" width="100" height="100" />](https://www.credly.com/badges/5e57c41e-c199-4300-8b99-c2d8328706c5/public_url)
 ---
 
 ### 📕 Medium Blogs
