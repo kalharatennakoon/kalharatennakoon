@@ -14,6 +14,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kalharatennakoon)](https://www.linkedin.com/in/kalharatennakoon) [![Medium Badge](https://img.shields.io/badge/-kalharatennakoon-white?logo=Medium&logoColor=black&link=https://kalharatennakoon.medium.com)](https://kalharatennakoon.medium.com) [![StackOverflow Badge](https://img.shields.io/badge/-kalharatennakoon-white?labelColor=white&logo=Stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/13018789/kalhara-tennakoon)](https://stackoverflow.com/users/13018789/kalhara-tennakoon)
 
+---
+
+## 🚀 My Projects
+- **Project Name:** AI Project Showcase
+- **Description:** A brief overview of an exciting AI-powered application, demonstrating capabilities in machine learning and data analysis. (You can replace this with your actual project description).
+- **Link:** `[View Project](#)` (You can replace # with your actual project link).
+- **Image:** ![AI Project](https://via.placeholder.com/100x100.png?text=AI+Project)
 
 ---
 <!-- **📄 Global Certifications** -->
