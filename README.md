@@ -53,6 +53,11 @@
 [<img src="./assets/aws-educate-machine-learning-foundations.png" width="100" height="100" />](https://www.credly.com/badges/018bac1c-155b-41be-b2c9-531502d35d12/public_url)
 [<img src="./assets/aws-getting-started-with-compute.png" width="100" height="100" />](https://www.credly.com/badges/4fadeb44-e98e-4a2e-aa26-1b2a391f196d/public_url)
 [<img src="./assets/aws-introduction-to-generative-ai.png" width="100" height="100" />](https://www.credly.com/badges/5e57c41e-c199-4300-8b99-c2d8328706c5/public_url)
+[<img src="./assets/introduction-to-modern-ai.png" width="100" height="100" />](https://www.credly.com/badges/868f4b8b-0707-4e5d-8cd7-2fb3610a7df4/public_url)
+[<img src="./assets/introduction-to-zero-trust.png" width="100" height="100" />](https://www.credly.com/badges/21c78420-1156-43c9-8314-95bb07c222c2/public_url)
+[<img src="./assets/openapi-fundamentals.png" width="100" height="100" />](https://www.credly.com/badges/1db490c4-aa12-45d5-8d31-4394f00abedb/public_url)
+[<img src="./assets/artificial-intelligence-fundamentals.png" width="100" height="100" />](https://www.credly.com/badges/a5b815dd-e21b-4841-86a6-d3948a44dfe9/public_url)
+[<img src="./assets/cybersecurity-fundamentals.png" width="100" height="100" />](https://www.credly.com/badges/e25e75f5-2d41-416c-b383-86f5fec810b9/public_url)
 ---
 
 ### 📕 Medium Blogs
