@@ -62,11 +62,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [iOS 26 Preview: A Closer Look at the New Phone and Messages Apps](https://kalharatennakoon.medium.com/ios-26-preview-a-closer-look-at-the-new-phone-and-messages-apps-e72c20ca4c84?source=rss-71d60f60a8aa------2)
 - [Notion Automation with Apple Shortcuts](https://kalharatennakoon.medium.com/notion-automation-with-apple-shortcuts-d3ccab993cc7?source=rss-71d60f60a8aa------2)
 - [Building, Dockerizing, and Deploying a CRUD API in Go on Kubernetes](https://levelup.gitconnected.com/building-dockerizing-and-deploying-a-crud-api-in-go-on-kubernetes-9c25b01ad2e8?source=rss-71d60f60a8aa------2)
 - [The Importance of Writing Clean Code.](https://levelup.gitconnected.com/the-importance-of-writing-clean-code-a4d453814373?source=rss-71d60f60a8aa------2)
 - [The Critical Role of Feasibility Studies in Software Development](https://kalharatennakoon.medium.com/the-critical-role-of-feasibility-studies-in-software-development-dc7263c929be?source=rss-71d60f60a8aa------2)
-- [Unlocking the Power of Apple Intelligence: Hype or Reality?](https://kalharatennakoon.medium.com/unlocking-the-power-of-apple-intelligence-hype-or-reality-824ef0c30f88?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
