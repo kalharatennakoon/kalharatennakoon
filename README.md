@@ -17,6 +17,8 @@
 
 ---
 ### 📄 Global Certifications
+- [Gemini Certified Educator by Google for Education](https://edu.google.accredible.com/ae8c5710-9e25-4048-82d5-8e2f15288978#acc.nMms0CiH)
+- [Gemini Certified University Student by Google for Education](https://edu.google.accredible.com/fd37035c-4b98-4d55-a083-80fbb8a7ad57#acc.CW8RnwgH)
 - [GitHub Foundations](https://www.credly.com/badges/91239f31-74c8-4175-93a0-0855efb3c46e/public_url)
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-gb/TMKRBTennakoon/38133387373C82E1?sharingId=87BD701455AA18AA)
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-gb/TMKRBTennakoon/1C53DDEE0DB410A4?sharingId=87BD701455AA18AA)
