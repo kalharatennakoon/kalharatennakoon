@@ -63,11 +63,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Software Testing Processes for Beginners](https://kalharatennakoon.medium.com/software-testing-processes-for-beginners-6ac5394c1d3d?source=rss-71d60f60a8aa------2)
 - [How to Reduce Your Screen Time](https://kalharatennakoon.medium.com/how-to-reduce-screen-time-9ee6e4ed9037?source=rss-71d60f60a8aa------2)
 - [iOS 26 Preview: A Closer Look at the New Phone and Messages Apps](https://kalharatennakoon.medium.com/ios-26-preview-a-closer-look-at-the-new-phone-and-messages-apps-e72c20ca4c84?source=rss-71d60f60a8aa------2)
 - [Notion Automation with Apple Shortcuts](https://kalharatennakoon.medium.com/notion-automation-with-apple-shortcuts-d3ccab993cc7?source=rss-71d60f60a8aa------2)
 - [Building, Dockerizing, and Deploying a CRUD API in Go on Kubernetes](https://levelup.gitconnected.com/building-dockerizing-and-deploying-a-crud-api-in-go-on-kubernetes-9c25b01ad2e8?source=rss-71d60f60a8aa------2)
-- [The Importance of Writing Clean Code.](https://levelup.gitconnected.com/the-importance-of-writing-clean-code-a4d453814373?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
