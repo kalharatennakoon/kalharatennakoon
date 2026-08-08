@@ -2,7 +2,7 @@
 
 - 🔭 I’m Kalhara. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I'm a CS undergraduate and former DevOps Engineer Intern @IFS
+- 👨🏻‍💻 I’m a Computer Science graduate (First Class Honours) and former DevOps Engineer Intern at IFS.
 
 - 💬 Ask me about: Java, Python, Golang, Angular, NodeJs, Flask, SQL, NoSQL, JavaScript, jQuery, Ajax, Bootstrap, Shell Scripting, Docker, Kubernetes, CI/CD, Microsoft Azure & AI.
 
