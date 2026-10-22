@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Kalhara Tennakoon. Thanks for reaching me out. ☺️
+- 🔭 I’m Kalhara. Thanks for reaching me out. ☺️
 
 - 👨🏻‍💻 I’m a Computer Science graduate (First Class Honours) and former DevOps Engineer Intern at IFS.
 
